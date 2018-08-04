@@ -57,6 +57,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         shuffleArray()
+        
     }
     
     func shuffleArray() {
