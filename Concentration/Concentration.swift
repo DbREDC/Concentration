@@ -24,6 +24,7 @@ class Concentration {
         for _ in 0..<numberOfPairsOfCards{
             let card = Card()
             cards += [card,card]
+            
         }
         
         for cardIndex in cards.indices {

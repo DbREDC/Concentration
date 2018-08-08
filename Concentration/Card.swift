@@ -17,6 +17,7 @@ struct Card {
     static func getUniqueidentifier() -> Int {
         identifierFactory += 1
         return identifierFactory
+        
     }
     
     
